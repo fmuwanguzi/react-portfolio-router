@@ -5,6 +5,7 @@ import About from './components/About'
 import Nav from './components/Nav'
 import PastProjects from './components/PastProjects'
 import Weather from './components/Weather'
+import Github from './components/Github'
 
 
 import './App.css';
@@ -19,6 +20,7 @@ function App() {
     <Route path='/pastprojects' component={PastProjects}/>
     <Route path='/weather' component={Weather}/>
     <Route path='/pastprojects' component={PastProjects}/>
+    <Route path='/github' conponent={Github} />
 
   </div>
   </BrowserRouter>

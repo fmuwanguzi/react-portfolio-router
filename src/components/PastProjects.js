@@ -1,9 +1,6 @@
 function PastProjects(){
 
-    function handleClick(e){
-        e.preventDefault();
-
-    }
+  \
 
     return(
         <>
