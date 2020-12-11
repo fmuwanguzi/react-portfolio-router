@@ -6,6 +6,7 @@ function Nav(){
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>
           <li><Link to="/pastprojects">Past Projects</Link></li>
+          <li><Link to="/weather">weather</Link></li>
       </ul>
     )
 }
